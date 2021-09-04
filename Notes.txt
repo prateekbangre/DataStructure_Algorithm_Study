@@ -1,0 +1,21 @@
+There we will see how in the short time we will do company interview preparation.
+High to low priority of the algorithm as per company Amazon,facebook, Google interview experience.
+1. Two pointers, DFS, BFS, binary search
+2. Linked list, stack, and queue
+3. Priority Queue/heap
+4. Greedy, Dynamic programming
+5. Basic programming
+6. Trie, Union Find
+
+
+
+
+
+
+
+
+
+
+Site used:
+    http://www.btechsmartclass.com/data_structures/introduction-to-algorithms.html
+    https://www.programiz.com/dsa/algorithm
